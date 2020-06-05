@@ -1,1 +1,2 @@
-Please report security issues at security@qgis.org
+# Reporting security issues
+Please report security issues and vulnerabilities to security@qgis.org
