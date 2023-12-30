@@ -1,2 +1,2 @@
 # Code of Conduct
-You can find our uptodate code of conduct at https://qgis.org/en/site/getinvolved/governance/codeofconduct/codeofconduct.html
+You can find our up-to-date code of conduct at: https://qgis.org/en/site/getinvolved/governance/codeofconduct/codeofconduct.html
